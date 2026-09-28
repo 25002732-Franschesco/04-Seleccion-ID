@@ -135,3 +135,11 @@ nav a:hover
     float: left;
 }
 
+#servicios
+{
+    width: 80%;
+    margin: 0px auto;
+    font-size: 1rem;
+    text-align: center;
+    display: flex;
+}
