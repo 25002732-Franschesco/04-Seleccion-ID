@@ -142,4 +142,29 @@ nav a:hover
     font-size: 1rem;
     text-align: center;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+#servicios div
+{
+    padding: 10px;
+    flex-basis: 26%;
+    min-width: 320px;
+    flex-grow: 1;
+}
+
+#servicios span
+{
+    color: #0dd5cf;
+    font-size: 4rem;
+}
+
+#servicios p
+{
+    display: block;
+    font-size: 1rem;
+    color: #12361e;
+    padding-bottom: 20px;
+    line-height: 1.5rem;
 }
