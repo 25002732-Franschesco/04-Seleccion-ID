@@ -168,3 +168,33 @@ nav a:hover
     padding-bottom: 20px;
     line-height: 1.5rem;
 }
+
+#hoteles{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background: url(../imagenes/hoteles-Grand-Velas-Resorts-e1596047698604.webp) no-repeat fixed;
+    background-size: cover;
+    height: 1000px;
+    margin: 20px 0;
+}
+
+#hoteles h1{
+    font-size: 4rem;
+    color: #fff;
+    text-align: center;
+    line-height: 1000px;
+}
+
+#tours{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background: url(../imagenes/23d25e44b768594c6908f6591b692c68.jpg) no-repeat fixed;
+    background-size: cover;
+    height: 1000px;
+    margin: 20px 0;
+}
+
+#tours h1{
+    font-size: 4rem;
+    color: #fff;
+    text-align: center;
+    line-height: 1000px;
+}
